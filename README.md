@@ -11,7 +11,7 @@ A Java console-based Student Management System with:
 - :heavy_plus_sign: Add admins
 - :file_folder: File persistence
 - :door: Secure login system
-- :arrows_counterclockwise: Re_login after exit
+- :arrows_counterclockwise: Re-login after exit
 
 ## :closed_lock_with_key: Security
 Passwords are hashed using PBKDF2WithHmacSHA256 with:
@@ -19,7 +19,7 @@ Passwords are hashed using PBKDF2WithHmacSHA256 with:
 - 256-bit key length
 - Unique salt per user
 
-## 🛠 Technologies Used
+## :hammer_and_wrench: Technologies Used
 - Java
 - IntelliJ IDEA
 - File I/O
