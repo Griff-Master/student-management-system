@@ -22,8 +22,12 @@ Passwords are hashed using PBKDF2WithHmacSHA256 with:
 
 ## 🚀 How to Run
 1. Clone the repository
-2. Open in IntelliJ
-3. Run `StudentApp.java`
+    - Copy the URL in the github
+    - Open  IntelliJ
+    - Go to Files - New - project - project from version control
+    - Paste the URL
+    -  clone
+2. Run `StudentApp.java`
 
 ## 📌 Author
 Griffins Kyei
