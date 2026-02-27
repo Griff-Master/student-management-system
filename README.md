@@ -1,14 +1,19 @@
-# Student Management System
+# :rocket: Student Management System
 
 A Java console-based Student Management System with:
 
-- Admin authentication (PBKDF2 password hashing)
-- Add, update, delete, search, sort students
-- Add admins
-- File persistence
-- Secure login system
+- :closed_lock_with_key: Admin authentication (PBKDF2 password hashing)
+- :heavy_plus_sign: Add students
+- :pencil2: Update students
+- :x: Delete students
+- :mag: Search students
+- :arrows_clockwise: Sort students
+- :heavy_plus_sign: Add admins
+- :file_folder: File persistence
+- :door: Secure login system
+- :arrows_counterclockwise: Re_login after exit
 
-## 🔐 Security
+## :closed_lock_with_key: Security
 Passwords are hashed using PBKDF2WithHmacSHA256 with:
 - 100,000 iterations
 - 256-bit key length
@@ -19,15 +24,16 @@ Passwords are hashed using PBKDF2WithHmacSHA256 with:
 - IntelliJ IDEA
 - File I/O
 - PBKDF2 Password Hashing
+- Git & Github
 
-## 🚀 How to Run
+## :arrow_forward: How to Run
 1. Clone the repository
-    - Copy the URL in the github
+    - Copy the URL in the Github
     - Open  IntelliJ
     - Go to Files - New - project - project from version control
     - Paste the URL
     -  clone
 2. Run `StudentApp.java`
 
-## 📌 Author
+## :bust_in_silhouette: Author
 Griffins Kyei
